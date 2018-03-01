@@ -1,6 +1,6 @@
 ## TAREA 4. EXAMEN CON AUTOCORRECCIÓN.
 
-###HTML:
+### HTML:
 Dispone de dos html, uno con el INDEX y el otro con el TEST.
 
 >* **INDEX**:
@@ -16,7 +16,7 @@ Tiene el JS y XML relacionado.
 No permite corregir si no se ha contestado todas las preguntas.
 Para corregir pide confirmación.
 
->###OTROS:
+### OTROS:
 Validación HTML, CSS y XML.
 Separacion HTML y CSS
 Identado.
