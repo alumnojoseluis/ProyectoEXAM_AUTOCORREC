@@ -17,9 +17,9 @@ No permite corregir si no se ha contestado todas las preguntas.
 Para corregir pide confirmación.
 
 ### OTROS:
-Validación HTML, CSS y XML.
-Separacion HTML y CSS
-Identado.
-En el branch MINIFY está el HTML minificado.
-Es responsive.
-URL: https://rawgit.com/alumnojoseluis/ProyectoEXAM_AUTOCORREC/master/index.html
+>** Validación HTML, CSS y XML.
+>** Separacion HTML y CSS.
+>** Identado.
+>** En el branch MINIFY está el HTML minificado.
+>** Es responsive.
+>** URL: https://rawgit.com/alumnojoseluis/ProyectoEXAM_AUTOCORREC/master/index.html
