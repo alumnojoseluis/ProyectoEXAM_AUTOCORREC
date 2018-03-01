@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE questions>
+
+<questions>
+	<question id="q001">
+        <type>select</type>
+        <title>
+            1. ¿De qué color era el caballo blanco de Santiago?
+        </title>
+        <option>a) Negro.</option>
+        <option>b) Gris.</option>
+        <option>c) Blanco.</option>
+        <answer>2</answer>
+    </question>
+    <question id="q002">
+        <type>select</type>
+        <title>
+            2. Completa la siguiente frase;  Tanto monta, monta...
+        </title>
+        <option>a) Tanto.</option>
+        <option>b) Tinta.</option>
+        <option>c) Tonta.</option>
+        <answer>0</answer>
+    </question>
+	<question id="q003">
+        <type>select</type>
+        <title>
+            3. Según la leyenda rumana del siglo XIX sobre El Príncipe Azul, ¿cuál es el título nobiliario del padre de este príncipe?
+        </title>
+        <option>a) Blue Rey.</option>
+        <option>b) Blu Ray.</option>
+        <option>c) Rey.</option>
+        <answer>2</answer>
+    </question>
+	<question id="q004">
+        <type>select</type>
+        <title>
+            4. En la película Star Wars: Episodio IV - Una Nueva Esperanza, ¿cómo se llama el droide astromecánico con coraza de color azul y plateada además de un sensor rojo, que acompaña a Luke Skywalwer en la Batalla de Yavin?
+        </title>
+        <option>a) Arturito.</option>
+        <option>b) R2-D2.</option>
+        <option>c) ERRE-DROS-DEDOS.</option>
+        <answer>1</answer>
+    </question>
+	<question id="q005">
+        <type>text</type>
+        <title>
+            5. Si cárcel y prisión son sinónimos, ¿lo son también carcelero y prisionero?	[SÍ o NO]
+        </title>
+        <answer>NO</answer>
+	</question>
+    <question id="q006">
+        <type>text</type>
+        <title>
+            6. Si un mamut se tira al tren, ¿está en vías de extinción?	[SÍ o NO]
+        </title>
+        <answer>SI</answer>
+    </question>
+    <question id="q007">
+        <type>radio</type>
+        <title>
+			7. ¿Cuál es la clasificación de un ganado compuesto de cerdos?
+		</title>
+        <option>a) Cerdino.</option>
+        <option>b) Puerquino.</option>
+        <option>c) Porcino.</option>
+        <answer>2</answer>
+	</question>
+    <question id="q008">
+        <type>radio</type>
+        <title>
+			8. Si en los ojos tenemos patas de gallo, ¿qué tenemos en los pies?
+		</title>
+        <option>a) Gallo de ojo.</option>
+        <option>b) Ojo con el gallo.</option>
+        <option>c) Ojos de gallo.</option>
+        <answer>2</answer>
+    </question>
+	<question id="q009">
+        <type>radio</type>
+        <title>
+			9. ¿Cuál es el título de la película en que se hunde el Titanic?
+		</title>
+        <option>a) Titanlux.</option>
+        <option>b) Tic, tac, nic.</option>
+        <option>c) Titanic.</option>
+        <answer>2</answer>
+    </question>
+	<question id="q010">
+		<type>radio</type>
+        <title>
+			10. Si tenemos una manzana y se reparte entre cuatro, ¿con qué se queda cada persona?
+		</title>
+        <option>a) Con hambre.</option>
+        <option>b) Con una habitación.</option>
+        <option>c) Con un cuarto</option>
+        <answer>2</answer>
+	</question>
+</questions>
